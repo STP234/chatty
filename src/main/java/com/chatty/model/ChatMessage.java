@@ -1,4 +1,4 @@
-package com.springbootwebsocket.model;
+package com.chatty.model;
 
 
 public class ChatMessage {

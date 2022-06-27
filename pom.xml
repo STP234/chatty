@@ -8,10 +8,10 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>chat_1</groupId>
+    <groupId>chatty</groupId>
     <artifactId>websocket</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>chat_1</name>
+    <name>chatty</name>
     <description>Websocket for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
